@@ -1,0 +1,12 @@
+Dear candidate 
+
+We’re excited about the prospect of you joining the Mustard team! We believe the best way to evaluate a candidate is to give them an assignment that reflects the work they will be doing with us. We want to better understand how you think and communicate ideas in written form. Your responses should highlight the unique perspective and talents you will bring to our team. 
+
+Mustard is a Fintech company that provides easy ways to save and invest in tangible assets to achieve financial goals.
+
+Case: Attached to this email is a CSV file that contains the dataset for this assessment
+Kindly plug into the file and extract it. Do not copy and paste the data. We would like our customers to see the displayed price of dollars for each day. 
+
+a. Come up with a single-page screen showing the current price of dollar for that day
+b. Come up with a chart that shows the movement of the dollar for the past month
+c. Users should be able to filter this chart by clicking on a drop-down.
