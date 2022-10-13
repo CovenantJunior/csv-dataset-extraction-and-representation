@@ -88,7 +88,7 @@
 </head>    
   
 <body>   
-    <h1>MUSTARD</h1>
+    <h1>CALENDAR UI</h1>
     <hr>
         <?php
             for ($i=1; $i < count($data); $i++) {
