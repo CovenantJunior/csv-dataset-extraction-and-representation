@@ -5,7 +5,7 @@
 <!DOCTYPE html>    
 <html>    
 <head>    
-        <title>MUSTARD</title>    
+        <title>CALENDAR UI</title>    
   <style type="text/css">    
         body    
         {    
