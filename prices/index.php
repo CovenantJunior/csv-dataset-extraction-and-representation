@@ -6,10 +6,18 @@
 <html>    
 <head>    
         <title>CALENDAR UI</title>    
-  <style type="text/css">    
+  <style type="text/css"> 
+        @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+        /* base styles */
+        * {
+          margin: 0;
+          font-family: "Quicksand";
+          color: #333;
+        }
+           
         body    
         {    
-          font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;    
           font-size: 100%;    
           margin: 50px 20%;
           color: #333;  

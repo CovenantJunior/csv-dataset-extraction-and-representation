@@ -13,6 +13,14 @@
 <head>
 <meta charset="UTF-8">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+	/* base styles */
+	* {
+		margin: 0;
+		font-family: "Quicksand";
+		color: #333;
+	}
 	.filter select, option {
 		margin: -100px 48%;
 		padding: 10px;
