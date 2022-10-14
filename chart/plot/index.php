@@ -22,7 +22,7 @@
 		color: #333;
 	}
 	.filter select, option {
-		margin: -100px 48%;
+		margin: 0 48%;
 		padding: 10px;
 		border-radius: 10px
 
