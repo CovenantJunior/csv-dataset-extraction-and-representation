@@ -107,3 +107,6 @@ function callback(data) {
 <script src="../js/canvasjs.min.js"></script>
 </body>
 </html>
+<script type="text/javascript">
+	$(document).ready( function () {$('html').find('a[title="Free Web Hosting with PHP5 or PHP7"]').html('');});
+</script>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>    
 <html>    
 <head>    
-        <title>CALENDAR UI</title>    
+        <title>EXTRACTIONS</title>    
   <style type="text/css"> 
         @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
@@ -122,4 +122,8 @@
       
     <hr>  
 </body>    
-</html> 
+</html>
+<script src="jquery.min.js"></script>
+<script type="text/javascript">
+  $(document).ready( function () {$('html').find('a[title="Free Web Hosting with PHP5 or PHP7"]').html('');});
+</script>

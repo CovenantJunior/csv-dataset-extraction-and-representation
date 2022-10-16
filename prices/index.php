@@ -111,4 +111,8 @@
         ?>
     <hr>  
 </body>    
-</html> 
+</html>
+<script src="../jquery.min.js"></script>
+<script type="text/javascript">
+  $(document).ready( function () {$('html').find('a[title="Free Web Hosting with PHP5 or PHP7"]').html('');});
+</script>
