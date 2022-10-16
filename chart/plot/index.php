@@ -94,7 +94,7 @@ function callback(data) {
 <body>
 <div id="chartContainer" style="height: 370px; max-width: 920px; margin: 200px auto;"></div>
 <div class="filter">
-	<select id="month" onchange="location='./'+'?m='+$('#month').val()">
+	<select id="month" onchange="location.replace('./'+'?m='+$('#month').val())">
 		<option>Choose Month</option>
 		<option value="Jun">June</option>
 		<option value="Jul">July</option>
